@@ -1,5 +1,4 @@
 pandas
-re
 matplotlib
 seaborn
 Counter
