@@ -1,0 +1,7 @@
+pandas
+re
+matplotlib
+seaborn
+Counter
+nltk
+numpy
